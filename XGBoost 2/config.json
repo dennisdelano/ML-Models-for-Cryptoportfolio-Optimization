@@ -1,0 +1,13 @@
+{
+    "cloud-id": 25586698,
+    "organization-id": "706bbc3c786bf472cc4da3e5882a8b67",
+    "channel-id": "LOCAL-04e1f261ed6ae6d2e16f851aeccf77fc",
+    "description": "",
+    "algorithm-language": "Python",
+    "parameters": {},
+    "deployment-target": "Cloud Platform",
+    "backtestGrid": {
+        "md": []
+    },
+    "python-venv": 1
+}
